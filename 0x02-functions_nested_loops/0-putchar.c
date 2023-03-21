@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - main function
+ * main: main function
  * _putchar: print the alphabets putchar
  * Return always 0
  */
