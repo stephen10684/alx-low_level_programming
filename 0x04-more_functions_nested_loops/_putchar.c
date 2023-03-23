@@ -1,9 +1,5 @@
 #include <unistd.h>
-<<<<<<< HEAD
 #include "main.h"
-=======
-
->>>>>>> b7d5b70a86b37a654defcd7eb19d0a279a9eceec
 
 /**
  * _putchar - writes the character c to stdout
